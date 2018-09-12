@@ -1,0 +1,12 @@
+{
+    "name": "zkc/php-utils",
+    "type": "library",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Z.kc",
+            "email": "zkc226@163.com"
+        }
+    ],
+    "require": {}
+}
