@@ -1,7 +1,7 @@
 <?php
 
 
-namespace utils;
+namespace zkc\Utils;
 
 
 class TimeUtils
